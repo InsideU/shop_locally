@@ -1,3 +1,4 @@
+//color coding can change as per the requirements of the shop
 export const colorG = '#009432';
 export const colorB = '#227093';
 export const colorR = '#EE5A24';
